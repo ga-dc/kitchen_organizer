@@ -1,7 +1,7 @@
 # Homework
 
 1. **Read:** [ProGit, Chapter 1.1](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
-2. **CLI Golf!** Using `mv`, `cp`, `rm` and `mkdir`, reorganize the kitchen in as few steps as possible!
+2. **CLI Golf!** Using `mv`, `cp`, `rm`, `touch`, and `mkdir` reorganize the kitchen in as few steps as possible!
 
 Copy the text in your terminal prompt, and save it to a text file.
 
