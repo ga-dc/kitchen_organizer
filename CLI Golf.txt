@@ -1,0 +1,261 @@
+Last login: Wed Oct 14 10:12:42 on ttys000
+~ 
+$ pwd
+/Users/tkentor
+~ 
+$ cd desktop
+~/desktop 
+$ cd coding
+~/desktop/coding 
+$ cd wdi
+~/desktop/coding/wdi 
+$ cd exercises
+~/desktop/coding/wdi/exercises 
+$ git clone https://github.com/ga-dc/wendy_bite
+Cloning into 'wendy_bite'...
+remote: Counting objects: 14, done.
+remote: Total 14 (delta 0), reused 0 (delta 0), pack-reused 14
+Unpacking objects: 100% (14/14), done.
+Checking connectivity... done.
+~/desktop/coding/wdi/exercises 
+$ cd wendy_bite
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ atom doc
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ atom .
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ open index.html
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ link rel="stylesheet"
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ link rel="stylesheet"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~/desktop/coding/wdi/exercises/wendy_bite (master) 
+$ cd ..
+~/desktop/coding/wdi/exercises 
+$ cd ..
+~/desktop/coding/wdi 
+$ cd ../../..
+~ 
+$ pwd
+/Users/tkentor
+~ 
+$ cd desktop
+~/desktop 
+$ cd index.html
+-bash: cd: index.html: Not a directory
+~/desktop 
+$ open index.html
+~/desktop 
+$ 
+
+
+
+
+
+
+~/desktop 
+$ pwd
+/Users/tkentor/desktop
+~/desktop 
+$ ls
+Bartending Resume .pdf
+Bartending Resume.ai
+CODING
+Ew48Xod4UtHn0XKDF2ja3r2FQxJzfVK5CY8FH8uC3Qo,v32Y5ppgmVEpxymalAupl3mdImvu83Zbc_enCrfj2k0,9Bqz_tT4U--GnJU4-8PZ1vR93IBmroZnH7Od-_J2OqE.jpg
+GA notes
+MOM : MESH
+Screen Shot 2015-09-01 at 9.05.57 PM.png
+Screen Shot 2015-09-01 at 9.06.23 PM.png
+Screen Shot 2015-09-24 at 12.30.55 PM.png
+Teddy Kentor - Bartender.pdf
+TeddyKentor_Bartender.pdf
+desktop
+index.html
+rgkvPq6.jpg
+script.js
+zGtVetPSaPCChhGNpCQ7UmDe2mIa5qRskYjbsbAtYtc,OAG0TdjXusHycWXlr4y1eCG1Gzr5-Fg8A46hzOZxoZA,BrBRiCiskH0bS_zE6NR96xQSSJvtlcNQJChpBOhvsGU.jpg
+~$the spreadsheet.xlsx
+~/desktop 
+$ cd coding
+~/desktop/coding 
+$ cd wdi
+~/desktop/coding/wdi 
+$ ls
+Resume		curriculum	exercises	projects	sandbox
+~/desktop/coding/wdi 
+$ cd exercises
+~/desktop/coding/wdi/exercises 
+$ ls
+haiku		wendy_bite
+~/desktop/coding/wdi/exercises 
+$ cd ..
+~/desktop/coding/wdi 
+$ ls
+Resume		curriculum	exercises	projects	sandbox
+~/desktop/coding/wdi 
+$ cd ..
+~/desktop/coding 
+$ ls
+GA app: TK website	flowers			wdi
+HW through Project 1	kitchen
+Notes			resume
+~/desktop/coding 
+$ cd kitchen
+~/desktop/coding/kitchen 
+$ 
+~/desktop/coding/kitchen 
+$ cd fridge
+~/desktop/coding/kitchen/fridge 
+$ mv trashcan ..
+~/desktop/coding/kitchen/fridge 
+$ cd trashcan
+-bash: cd: trashcan: No such file or directory
+~/desktop/coding/kitchen/fridge 
+$ cd ..
+~/desktop/coding/kitchen 
+$ ls
+cans.txt	fridge		pantry		trashcan
+~/desktop/coding/kitchen 
+$ cd trashcan
+~/desktop/coding/kitchen/trashcan 
+$ mv sink ..
+~/desktop/coding/kitchen/trashcan 
+$ ls
+banana-peels.txt	chicken-bones.txt	egg-shells.txt
+~/desktop/coding/kitchen/trashcan 
+$ cd ..
+~/desktop/coding/kitchen 
+$ ls
+cans.txt	fridge		pantry		sink		trashcan
+~/desktop/coding/kitchen 
+$ cd pantry
+~/desktop/coding/kitchen/pantry 
+$ mv crisper-drawer ..
+~/desktop/coding/kitchen/pantry 
+$ ls
+cans.txt	cereal.txt
+~/desktop/coding/kitchen/pantry 
+$ cd ..
+~/desktop/coding/kitchen 
+$ ls
+cans.txt	fridge		sink
+crisper-drawer	pantry		trashcan
+~/desktop/coding/kitchen 
+$ mv crisper-drawer fridge
+~/desktop/coding/kitchen 
+$ cd fridge
+~/desktop/coding/kitchen/fridge 
+$ ls
+crisper-drawer	diapers.txt	freezer		milk.txt
+~/desktop/coding/kitchen/fridge 
+$ cd freezer
+~/desktop/coding/kitchen/fridge/freezer 
+$ mv couch.txt ../crisper-drawer
+~/desktop/coding/kitchen/fridge/freezer 
+$ cd crisper-drawer
+-bash: cd: crisper-drawer: No such file or directory
+~/desktop/coding/kitchen/fridge/freezer 
+$ cd ..
+~/desktop/coding/kitchen/fridge 
+$ ls
+crisper-drawer	diapers.txt	freezer		milk.txt
+~/desktop/coding/kitchen/fridge 
+$ cd crisper-drawer
+~/desktop/coding/kitchen/fridge/crisper-drawer 
+$ ls
+couch.txt	lettuce.txt
+~/desktop/coding/kitchen/fridge/crisper-drawer 
+$ mv couch.txt apples.txt
+~/desktop/coding/kitchen/fridge/crisper-drawer 
+$ cd ..
+~/desktop/coding/kitchen/fridge 
+$ ls
+crisper-drawer	diapers.txt	freezer		milk.txt
+~/desktop/coding/kitchen/fridge 
+$ ls crisper-drawer
+apples.txt	lettuce.txt
+~/desktop/coding/kitchen/fridge 
+$ ls freezer
+frozenpeas.txt	icecream.txt
+~/desktop/coding/kitchen/fridge 
+$ rm diapers.txt
+~/desktop/coding/kitchen/fridge 
+$ cd ..
+~/desktop/coding/kitchen 
+$ cd sink
+~/desktop/coding/kitchen/sink 
+$ ls
+clean-dishes.txt	delete.me.txt		dirty-dishes.txt
+~/desktop/coding/kitchen/sink 
+$ mkdir drying-rack
+~/desktop/coding/kitchen/sink 
+$ mv clean-dishes.txt drying-rack
+~/desktop/coding/kitchen/sink 
+$ rm delete-me.txt
+rm: delete-me.txt: No such file or directory
+~/desktop/coding/kitchen/sink 
+$ ls
+delete.me.txt		dirty-dishes.txt	drying-rack
+~/desktop/coding/kitchen/sink 
+$ rm delete.me.txt
+~/desktop/coding/kitchen/sink 
+$ cd ..
+~/desktop/coding/kitchen 
+$ kitchen ls
+-bash: kitchen: command not found
+~/desktop/coding/kitchen 
+$ ls kitchen
+ls: kitchen: No such file or directory
+~/desktop/coding/kitchen 
+$ ls
+cans.txt	fridge		pantry		sink		trashcan
+~/desktop/coding/kitchen 
+$ mv cans.txt pantry
+~/desktop/coding/kitchen 
+$ ls
+fridge		pantry		sink		trashcan
+~/desktop/coding/kitchen 
+$ ls fridge
+crisper-drawer	freezer		milk.txt
+~/desktop/coding/kitchen 
+$ ls fridge/freezer
+frozenpeas.txt	icecream.txt
+~/desktop/coding/kitchen 
+$ ls fridge/freezer
+frozenpeas.txt	icecream.txt
+~/desktop/coding/kitchen 
+$ ls pantry
+cans.txt	cereal.txt
+~/desktop/coding/kitchen 
+$ ls sink
+dirty-dishes.txt	drying-rack
+~/desktop/coding/kitchen 
+$ ls sink/drying-rack
+clean-dishes.txt
+~/desktop/coding/kitchen 
+$ ls trashcan
+banana-peels.txt	chicken-bones.txt	egg-shells.txt
+~/desktop/coding/kitchen 
+$ 
