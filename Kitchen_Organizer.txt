@@ -1,0 +1,22 @@
+~/wdi/exercises/kitchen_organizer (master) 
+$ mv cans.txt pantry/
+~/wdi/exercises/kitchen_organizer (master *) 
+$ mv ./pantry/crisper-drawer/ fridge/
+~/wdi/exercises/kitchen_organizer (master *) 
+$ mv ./fridge/trashcan/ .
+~/wdi/exercises/kitchen_organizer (master *) 
+$ mv ./trashcan/sink/ .
+~/wdi/exercises/kitchen_organizer (master *) 
+$ rm ./sink/delete-me.txt
+~/wdi/exercises/kitchen_organizer (master *)  
+$ mkdir ./sink/drying-rack/
+~/wdi/exercises/kitchen_organizer (master *) 
+$ mv ./sink/clean-dishes.txt ./sink/drying-rack/
+~/wdi/exercises/kitchen_organizer (master *) 
+$ rm ./fridge/diapers.txt
+~/wdi/exercises/kitchen_organizer (master *) 
+$ rm ./fridge/freezer/couch.txt
+~/wdi/exercises/kitchen_organizer (master *) 
+$ touch ./fridge/crisper-drawer/apples.txt
+~/wdi/exercises/kitchen_organizer (master *) 
+$ 
