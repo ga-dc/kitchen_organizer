@@ -1,0 +1,6 @@
+$ mv -r ./fridge/trashcan/sink/ ./
+$ mv fridge/trashcan/ ./
+$ mv pantry/crisper-drawer/ fridge/
+$ rm cans.txt fridge/diapers.txt sink/delete-me.txt fridge/freezer/couch.txt
+$ mkdir -p ./sink/drying-rack/; mv ./sink/clean-dishes.txt $_
+$ touch ./fridge/crisper-drawer/apples.txt
