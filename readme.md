@@ -65,3 +65,13 @@ When you're done running your terminal commands, it should look like this...
         ├── banana-peels.txt
 	    ├── chicken-bones.txt
 	    └── egg-shells.txt
+
+## `brew install tree`
+
+Use tree to check what your current folder structure looks like. You can install it from the command line by running...
+
+```bash
+$ brew install tree
+```
+
+You can then run it be entering `tree` from the command line.
