@@ -1,11 +1,22 @@
-# Homework
+## Setup
 
-1. **CLI Golf!** Using `mv`, `cp`, `rm`, `touch`, and `mkdir` reorganize the kitchen in as few steps as possible!
+Clone down this repository and switch into the working directory...
+
+```bash
+$ git clone git@github.com:ga-wdi-exercises/kitchen_organizer.git
+$ cd kitchen_organizer
+```
+
+## Goal
+
+Using `mv`, `cp`, `rm`, `touch` and `mkdir`, reorganize the kitchen in as few steps as possible!
 
 Copy the text in your terminal prompt, and save it to a text file.
 
 
-## Start Here:
+## Start Here
+
+Your working directory will look like this in the beginning...
 
     kitchen/
     ├── cans.txt
@@ -30,7 +41,9 @@ Copy the text in your terminal prompt, and save it to a text file.
         └── crisper-drawer
             └── lettuce.txt
 
-## End Here:
+## End Here
+
+When you're done running your terminal commands, it should look like this...
 
     kitchen/
     ├── fridge/
